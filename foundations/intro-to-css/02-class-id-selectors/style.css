@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.oddextra,
+.odd {
+    background-color: #f08080;
+    font-family: Verdana, DejaVu-Sans, sans-serif;
+}
+
+.oddextra {
+    font-size: 24px;
+}
+
+#one {
+    font-size: 36px;
+    color: hsl(240, 100%, 50%);
+}
+
+#two {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
